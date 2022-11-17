@@ -19,8 +19,6 @@ Lsrc/com/company/interfaceenhancement/functionalinterface/InterfaceJava7.java,6
 Lsrc/com/company/interfaceenhancement/functionalinterface/InterfaceJava8.java,c\5\c58ef704e5e518d79256bebc9afdc197743abacd
 t
 Dsrc/com/company/interfaceenhancement/staticmethod/MainInterface.java,f\b\fb64650e39197bc6809402ecc05e2825d85652e6
-I
-src/com/company/Main.java,4\a\4a831b10439099d44774d0ccc387e808deffaeab
 h
 8src/com/company/interfaceenhancement/lambda/Vehicle.java,c\e\ce18b6481929b4d5494d494ad9afee01b833b089
 l
