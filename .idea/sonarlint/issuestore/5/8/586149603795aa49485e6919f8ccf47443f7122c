@@ -1,0 +1,13 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(¢íúü
+h
+java:S4276
+"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(³ÆÝû
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ã…ˆ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¹ñ¶ƒ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ýÈ¾á
+U
+java:S1612"?Replace this lambda with method reference 'ArrayList::isEmpty'.(¢íúü
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Œ‘òŽ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Œ‘òŽ8Ôã×þÇ0

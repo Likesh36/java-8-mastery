@@ -1,0 +1,11 @@
+
+[
+java:S1854"ERemove this useless assignment to local variable "multiplyInterface".(‡ç²¨
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»âÆÍýÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(‘·úÏ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‡ç²¨
+L
+java:S1481"6Remove this unused "multiplyInterface" local variable.(‡ç²¨
+]	java:S125"<This block of commented-out lines of code should be removed.(Œ¿ñ†þÿÿÿÿ8þ”§úÇ0
+V	java:S125"<This block of commented-out lines of code should be removed.(¡¿þ§ûÿÿÿÿ
