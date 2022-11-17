@@ -61,3 +61,13 @@ w
 Gsrc/com/company/interfaceenhancement/doubleconlonoperator/Employee.java,b\0\b0eb94f915b0d32902bc276f493c77b5bf84096d
 v
 Fsrc/com/company/interfaceenhancement/doubleconlonoperator/TwoMain.java,4\8\48003dec0c2a5b71fdd3578d6d11daa22331e59c
+I
+src/com/company/Main.java,4\a\4a831b10439099d44774d0ccc387e808deffaeab
+v
+Fsrc/com/company/interfaceenhancement/predicates/PredicateExamples.java,f\1\f1537c4b175fa3ae3e26e7bece048a125800a8f4
+Y
+)src/com/company/streams/StreamFilter.java,2\1\21d5b5fa92707ca5c65f12115e3dd431228ed2af
+\
+,src/com/company/streams/StreamMapFilter.java,a\5\a5c8ef54e4f172dd424a69ea485e1db48045a283
+V
+&src/com/company/streams/StreamMap.java,a\d\ad9314fed8f4279a01fac3a6211864e78792c19f
